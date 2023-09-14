@@ -1,0 +1,3 @@
+Python Learning is fun 
+ 
+Now in python file handling was learning right now
